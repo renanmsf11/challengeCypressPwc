@@ -1,0 +1,9 @@
+{
+"fullnameField": "[id='userName']",
+"email": "[id='userEmail']",
+"currentAddress": "[id='currentAddress']",
+"permanentAddress": "[id='permanentAddress']",
+"submitButtonTextBoxPage": "[id='submit']",
+"outputTextBoxPage": "[id='output']"
+
+}
