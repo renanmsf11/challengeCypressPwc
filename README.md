@@ -81,7 +81,6 @@ JavaScript
 
 JSON Fixtures for POM and test data
 
-Allure for QA report
 
 ---
 
